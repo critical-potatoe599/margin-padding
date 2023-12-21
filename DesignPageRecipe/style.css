@@ -1,0 +1,27 @@
+
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+}
+
+
+.topBar {
+    display:inline-block;
+}
+
+.HeadingTitles {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+
+.background {
+    background-color:black;
+    color:grey;
+    margin: -8px;
+}
+
+.background .Aligned {
+    text-align: center;
+}
